@@ -8828,8 +8828,8 @@ transform: translateY(-18px);
 .testimonial-box {
 	background: transparent;
 	border-radius: 6px;
-	padding: 45px;
-	padding-top: 35px;
+	/* padding: 45px;
+	padding-top: 35px; */
 	color: #888;
 	position: relative;
 	margin: 70px 0 0;
@@ -8841,7 +8841,7 @@ transform: translateY(-18px);
 }
 
 .testimonial-box:before {
-	content: "\e948";
+	/* content: "\e948"; */
 	font-family: "Material-Icons";
 	position: absolute;
 	top: -35px;
